@@ -8,10 +8,11 @@ interface SiteConfig {
 }
 
 export const siteConfig: SiteConfig = {
-	author: 'DanielCG',
-	title: 'Astro Theme OpenBlog',
-	description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
-	lang: 'en-GB',
-	ogLocale: 'en_GB',
-	shareMessage: 'Share this post' // Message to share a post on social media
+	author: 'Sahrul Aziz',
+	title: 'Website SMPN 4 Dongko Satap',
+	description:
+		'Website ini merupakan website informasi umum sekolah SMPN 4 Dongko dan juga kegiatan-kegiatan yang ada dilaksanakan',
+	lang: 'Bahasa Indonesia',
+	ogLocale: 'Bahasa Indonesia',
+	shareMessage: 'Share postingan ini' // Message to share a post on social media
 }
